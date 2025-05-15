@@ -2,7 +2,6 @@
 #### About me
 - 🔬 KAIST DSAIL Lab Intern (Dec 2023–Jan 2024)  
 - 🎓 B.S. candidate in Industrial Engineering, Hanyang University (Mar 2019 – Present)  
-- 📫 How to reach me: eom0314@naver.com
 
 ---
 #### My projects
