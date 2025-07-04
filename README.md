@@ -1,7 +1,8 @@
 ---
 #### About me
 - 🔬 KAIST DSAIL Lab Intern (Dec 2023–Jan 2024)  
-- 🎓 B.S. candidate in Industrial Engineering, Hanyang University (Mar 2019 – Present)  
+- 🎓 B.S. candidate in Industrial Engineering, Hanyang University (Mar 2019 – Present)
+- 🌱 AIFFEL Research Course 14기 (Jul 2024 – Jan 2025)
 
 ---
 #### My projects
